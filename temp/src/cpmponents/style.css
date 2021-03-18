@@ -1,0 +1,28 @@
+ 
+input{
+    font-family: 'Monoton', cursive;
+    height: 35px;
+    font-size: 28px;
+    text-align: center;
+    width: 200px;
+    border: 3px solid navy;
+    border-radius: 20px;
+    outline: none;
+}
+h2{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-size: 40px;
+    color: greenyellow;
+}
+h3{
+    font-size: 30px;
+    color: aqua;
+}
+h4{
+    font-size: 22px;
+    color: aquamarine;
+}
+p{
+    font-size: 30px;
+    color: blanchedalmond;
+}
